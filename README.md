@@ -25,9 +25,10 @@ The web service also allows the creation of advertisements through the "post ad"
 
 Continuing the challenges, we built the mobile part using React-Native, where it displays the games in carousel format and their respective ads.
 
+<div display='inline-block'>
 <img height="360em" src="https://github.com/DanilloDamian/NLW/blob/master/Content/img/Screenshot_5.png"/>
 <img height="360em" src="https://github.com/DanilloDamian/NLW/blob/master/Content/img/Screenshot_6.png"/>
-
+</div>
 By clicking on the game the user is directed to a screen where he can view the ads.
 
 <img height="360em" src="https://github.com/DanilloDamian/NLW/blob/master/Content/img/Screenshot_7.png"/>
